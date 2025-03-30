@@ -1,24 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# WhatBytes - Skill Assessment Platform
+
+A web application built with Next.js that allows users to take skill assessments and track their progress.
+
+## Features
+
+- **Skill Assessments**: Take tests in various technical subjects (HTML, etc.)
+- **Interactive Dashboard**: View your performance metrics and progress
+- **Real-time Updates**: Dynamic updating of test scores and statistics
+- **Progress Tracking**: Visual representation of progress through charts and progress bars
+- **Responsive Design**: Works seamlessly across different device sizes
+
+## Tech Stack
+
+- **Framework**: Next.js 14 (React)
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **Icons**: React Icons
+- **Charts**: Recharts
+
+## Project Structure
 
 ## Getting Started
 
-First, run the development server:
-
+1. Clone the repository:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/yourusername/whatbytes.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Install dependencies:
+```bash
+cd whatbytesAssignment
+npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Run the development server:
+```bash
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. Open [http://localhost:3000](http://localhost:3000) in your browser
+
+
+
+
+
+
 
 ## Learn More
 
