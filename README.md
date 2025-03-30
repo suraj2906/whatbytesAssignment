@@ -24,7 +24,7 @@ A web application built with Next.js that allows users to take skill assessments
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/whatbytes.git
+git clone https://github.com/suraj2906/whatbytesAssignment.git
 ```
 
 2. Install dependencies:
